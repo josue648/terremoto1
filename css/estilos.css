@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #252323;
+    background-color: #f9f9f9;
+}
+header {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+h2{
+    text-align: center;
+}
+image {
+    align-items: center;
+}
+header p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+.container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+.section {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    padding: 2rem;
+}
+.section h2 {
+    color: #cc0909;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+div h2{
+    background-color: #252323;
+}
+.section ul {
+    list-style-type: disc;
+    margin-left: 2rem;
+}
+.cta-button {
+    display: inline-block;
+    background-color: #ff0000de;
+    color: rgba(255, 255, 255, 0.534);
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+.cta-button:hover {
+    background-color: #0056b3;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+h1{
+    .bungee-tint-regular {
+        font-family: "Bungee Tint", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
